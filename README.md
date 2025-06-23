@@ -16,15 +16,15 @@ If you use this code, please cite:
 
 ```
 @InProceedings{10.1007/978-981-96-6582-2_8,
-  author="Xing, Yucheng
-          and Wang, Xin",
-  title="{\$}{\$}{\backslash}infty {\$}{\$}-Net: An Unsupervised Model for Online Graph Time-Series Denoising",
-  booktitle="Neural Information Processing",
-  year="2025",
-  publisher="Springer Nature Singapore",
-  address="Singapore",
-  pages="111--125",
-  isbn="978-981-96-6582-2"
+    author="Xing, Yucheng
+            and Wang, Xin",
+    title="{\$}{\$}{\backslash}infty {\$}{\$}-Net: An Unsupervised Model for Online Graph Time-Series Denoising",
+    booktitle="Neural Information Processing",
+    year="2025",
+    publisher="Springer Nature Singapore",
+    address="Singapore",
+    pages="111--125",
+    isbn="978-981-96-6582-2"
 }
 
 ```
